@@ -1,0 +1,7 @@
+{
+  "name": "monorepo-ts-starter",
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "@types/bun": "latest"
+  }
+}
