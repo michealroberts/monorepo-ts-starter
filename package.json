@@ -1,7 +1,8 @@
 {
   "name": "monorepo-ts-starter",
   "devDependencies": {
-    "typescript": "^5.7.3",
-    "@types/bun": "latest"
+    "@biomejs/biome": "^1.9.4",
+    "@types/bun": "latest",
+    "typescript": "^5.7.3"
   }
 }
