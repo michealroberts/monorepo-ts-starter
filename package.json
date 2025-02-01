@@ -4,6 +4,7 @@
     "@biomejs/biome": "^1.9.4",
     "@types/bun": "latest",
     "knip": "^5.43.6",
+    "taze": "^18.3.0",
     "tsup": "^8.3.6",
     "turbo": "^2.4.0",
     "typescript": "^5.7.3",
@@ -17,6 +18,7 @@
     "format:all": "turbo run format",
     "knip": "knip",
     "lint:all": "turbo run lint",
+    "taze": "taze -r",
     "test:all": "turbo run test"
   },
   "workspaces": ["packages/*"]
